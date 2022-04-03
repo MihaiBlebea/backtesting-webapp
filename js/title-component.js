@@ -11,12 +11,16 @@ createApp({
 		}
 	},
 	methods: {
-		createAccount: ()=> {
+		createAccount() {
 			axios.post(BASE_URL + "/account").then((result)=> {
-				console.log(result.data)
+				this.saveToken(result.data.account.api_token)
 			}).catch((e)=> {
 				console.error(e)
 			})
-		}
+		},
+		saveToken: (apiToken)=> {
+			localStorage.setItem("apiToken", apiToken)
+		},
+		getToken: ()=> localStorage.getItem("apiToken")
 	},
 }).mount("#app")
