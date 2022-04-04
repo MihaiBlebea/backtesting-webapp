@@ -4,13 +4,13 @@
 		{
 			"id": 1,
 			"type": "limit",
-			"status": "filled",
+			"status": "pending",
 			"direction": "buy",
 			"amount": 1000,
 			"fill_price": 0,
 			"amount_after_fill": 0,
 			"symbol": "AAPL",
-			"quantity": -9223372036854775808,
+			"quantity": 20,
 			"filled_at": "2022-04-04T10:13:51.429257Z",
 			"created_at": "2022-04-04T10:12:57.615403Z"
 		},
@@ -23,7 +23,7 @@
 			"fill_price": 0,
 			"amount_after_fill": 0,
 			"symbol": "AAPL",
-			"quantity": -9223372036854775808,
+			"quantity": 23,
 			"filled_at": "2022-04-04T10:13:51.429257Z",
 			"created_at": "2022-04-04T10:12:57.615403Z"
 		},
@@ -36,7 +36,7 @@
 			"fill_price": 0,
 			"amount_after_fill": 0,
 			"symbol": "AAPL",
-			"quantity": -9223372036854775808,
+			"quantity": 77,
 			"filled_at": "2022-04-04T10:13:51.429257Z",
 			"created_at": "2022-04-04T10:12:57.615403Z"
 		}
