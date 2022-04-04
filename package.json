@@ -18,6 +18,7 @@
   "homepage": "https://github.com/MihaiBlebea/backtesting-webapp#readme",
   "dependencies": {
     "axios": "^0.26.1",
+    "http-server": "^14.1.0",
     "live-server": "^1.2.1"
   }
 }

@@ -1,0 +1,29 @@
+{
+	"success": true,
+	"positions": [
+		{
+			"id": 2,
+			"symbol": "AAPL",
+			"quantity": 100,
+			"created_at": "2022-04-04T10:13:51.437844Z"
+		},
+		{
+			"id": 3,
+			"symbol": "FB",
+			"quantity": 2,
+			"created_at": "2022-04-04T10:13:51.437844Z"
+		},
+		{
+			"id": 4,
+			"symbol": "TSLA",
+			"quantity": 50,
+			"created_at": "2022-04-04T10:13:51.437844Z"
+		},
+		{
+			"id": 5,
+			"symbol": "GOOGL",
+			"quantity": 45,
+			"created_at": "2022-04-04T10:13:51.437844Z"
+		}
+	]
+}

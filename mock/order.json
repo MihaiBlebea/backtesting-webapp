@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "order": {
+        "id": 7,
+        "type": "limit",
+        "status": "pending",
+        "direction": "buy",
+        "amount": 1000,
+        "fill_price": 0,
+        "amount_after_fill": 0,
+        "symbol": "AAPL",
+        "quantity": 0,
+        "created_at": "2022-04-04T10:12:57.615403916Z"
+    }
+}
