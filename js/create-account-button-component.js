@@ -23,4 +23,4 @@ createApp({
 		},
 		getToken: ()=> localStorage.getItem("apiToken")
 	},
-}).mount("#app")
+}).mount("#create-account-button")
