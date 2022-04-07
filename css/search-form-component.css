@@ -1,0 +1,11 @@
+.form-control:focus {
+	color: rgb(208, 202, 196);
+	background-color: rgb(24, 26, 27);
+	border-color: rgb(240, 14, 14)!important;
+	outline-color: initial;
+	box-shadow: rgb(2 80 196 / 25%) 0px 0px 0px 0.25rem;
+}
+
+.select:hover {
+	background-color: rgb(57, 173, 231);
+}

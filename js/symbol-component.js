@@ -7,7 +7,8 @@ createApp({
 	template: `
 	<div>
 		<div v-if="symbol !== null">
-			<h3 class="mb-3">{{ symbol.symbol }}</h3>
+			<h4 class="mb-3">{{ symbol.symbol }}</h4>
+			<hr/>
 			<p v-for="d in descriptions">{{ d }}</p>
 		</div>
 	</div>
@@ -19,7 +20,9 @@ createApp({
 	},
 	computed: {
 		descriptions() {
-			return this.symbol.longBusinessSummary.split(".").map((d)=> {
+			return this.symbol.longBusinessSummary.split(".").filter((d)=> {
+				return d !== ""
+			}).map((d)=> {
 				return d + "."
 			})
 		}

@@ -5,7 +5,7 @@ const BASE_URL = "http://127.0.0.1:8080/mock"
 
 createApp({
 	template: `
-	<div>
+	<div class="position-relative">
 		<input 
 			type="text" 
 			placeholder="search symbol" 
@@ -14,16 +14,20 @@ createApp({
 			v-on:blur="clear" 
 			v-on:focus="search"
 		>
-		<div class="card mb-2" v-if="results.length > 0">
+		<div class="card mb-2 position-absolute w-100" v-if="results.length > 0">
 			<div class="card-body" style="max-height: 200px; overflow: auto;">
-				<div 
+				<div
+					class="select"
 					v-for="(res, index) in results" 
 					style="cursor: pointer;" 
 					v-on:click="navigate" 
 					v-on:mouseover="select(res.symbol)"
 					v-on:mouseleave="unselect(res.symbol)"
 				>
-					{{ res.symbol }}
+					<div class="d-flex justify-content-between">
+						{{ res.symbol }}
+						<span class="text-muted">{{ res.title }}</span>
+					</div>
 					<hr v-if="index < results.length - 1"/>
 				</div>
 			</div>
