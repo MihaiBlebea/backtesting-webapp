@@ -7,6 +7,7 @@ createApp({
 			<div class="row justify-content-center mb-2">
 				<div class="col-12 col-md-6 row">
 					<div class="col d-flex justify-content-evenly">
+						<a href="/index.html">Discovery</a>
 						<a href="/portfolio.html">Portfolio</a>
 						<a href="/orders.html">Orders</a>
 					</div>

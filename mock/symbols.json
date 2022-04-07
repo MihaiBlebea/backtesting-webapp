@@ -1,0 +1,400 @@
+{
+	"success": true,
+	"symbols": [
+		{
+			"id": 14,
+			"title": "Golar LNG",
+			"long_title": "Golar LNG Ltd.",
+			"industry": "LNG infrastructure",
+			"currency": "USD",
+			"symbol": "GLNG",
+			"longBusinessSummary": "Golar LNG Limited provides infrastructure for the liquefaction, transportation, and regasification of LNG. It operates through Shipping, FLNG, and Power segments. The company engages in the acquisition, ownership, operation, and chartering of LNG carriers, Floating Liquefaction Natural Gas Vessel (FLNG), and floating storage regasification units (FSRUs), as well as operates external vessels. As of April 16, 2021, it operated ten LNG carriers, one FSRU, and two FLNGs. The company was founded in 1946 and is headquartered in Hamilton, Bermuda.",
+			"cashflowStatements": [
+				{
+					"endDate": "2021-12-31",
+					"netIncome": 412685000,
+					"totalCashFromOperatingActivities": 230005000,
+					"netBorrowings": 46889000
+				},
+				{
+					"endDate": "2020-12-31",
+					"netIncome": -273557000,
+					"totalCashFromOperatingActivities": 145783000,
+					"netBorrowings": -204827000
+				},
+				{
+					"endDate": "2019-12-31",
+					"netIncome": -211956000,
+					"totalCashFromOperatingActivities": 106545000,
+					"netBorrowings": -27917000
+				},
+				{
+					"endDate": "2018-12-31",
+					"netIncome": -231428000,
+					"totalCashFromOperatingActivities": 116674000,
+					"netBorrowings": 182874000
+				}
+			],
+			"profitMargins": 0.91349,
+			"sharesOutstanding": 108200000,
+			"beta": 0.702941,
+			"bookValue": 15.981,
+			"priceToBook": 1.5055377,
+			"earningsQuarterlyGrowth": -0.158,
+			"created_at": "2022-04-07T10:48:05.345526Z"
+		},
+		{
+			"id": 19,
+			"title": "Genpact",
+			"long_title": "Genpact Ltd",
+			"industry": "Professional services",
+			"currency": "USD",
+			"symbol": "G",
+			"longBusinessSummary": "Genpact Limited provides business process outsourcing and information technology (IT) services in India, rest of Asia, North and Latin America, and Europe. It operates through three segments: Banking, Capital Markets and Insurance; Consumer Goods, Retail, Life Sciences and Healthcare; and High Tech, Manufacturing and Services. The company offers CFO advisory services; and environmental, social, and governance (ESG) services, such as data management, carbon accounting, human rights assessment, sustainability diligence, and ESG reporting. It also provides finance and accounting services, which include accounts payable, such as document management, invoice processing, approval and resolution management, and travel and expense processing; invoice-to-cash services, including customer master data management, credit and contract management, fulfillment, billing, collections, and dispute management services; record to report services comprising accounting, treasury, tax, product cost accounting, and closing and reporting services; financial planning and analysis consisting of budgeting, forecasting, and business performance reporting; and enterprise risk and compliance services, including operational risks and controls. In addition, the company provides supply chain advisory services, and after-sales services; sourcing and procurement services comprising direct and indirect strategic sourcing, category management, spend analytics, procurement operation, and master data management; and sales and commercial services, including campaign, order, and dispute management, lead generation, pricing, and promotion optimization. Further, it offers IT services, which comprise end-user computing support, infrastructure management, application production support, and database management services; and transformation services that include digital solutions, consulting services, and analytics services and solutions. The company was founded in 1997 and is based in Hamilton, Bermuda.",
+			"cashflowStatements": [
+				{
+					"endDate": "2021-12-31",
+					"netIncome": 369448000,
+					"totalCashFromOperatingActivities": 694281000,
+					"netBorrowings": 52072000
+				},
+				{
+					"endDate": "2020-12-31",
+					"netIncome": 308276000,
+					"totalCashFromOperatingActivities": 584308000,
+					"netBorrowings": 135433000
+				},
+				{
+					"endDate": "2019-12-31",
+					"netIncome": 304881000,
+					"totalCashFromOperatingActivities": 427888000,
+					"netBorrowings": 133620000
+				},
+				{
+					"endDate": "2018-12-31",
+					"netIncome": 282019000,
+					"totalCashFromOperatingActivities": 339511000,
+					"netBorrowings": 85605000
+				}
+			],
+			"profitMargins": 0.091850005,
+			"sharesOutstanding": 185175008,
+			"beta": 1.456862,
+			"bookValue": 10.236,
+			"priceToBook": 4.234076,
+			"earningsQuarterlyGrowth": -0.025,
+			"created_at": "2022-04-07T10:48:05.345526Z"
+		},
+		{
+			"id": 21,
+			"title": "GAN",
+			"long_title": "GAN Ltd",
+			"industry": "Gambling software",
+			"currency": "USD",
+			"symbol": "GAN",
+			"longBusinessSummary": "GAN Limited operates as a business-to-business supplier of internet gambling software-as-a-service solutions to online casino gaming and online sports betting applications in the United States, Italy, the United Kingdom and Channel Islands, and internationally. The company operates through Real Money iGaming (RMiG) and Simulated Gaming (SIM) segments. It offers and licenses GameSTACK, a proprietary internet gambling enterprise software system as a turnkey technology solution for regulated real-money internet gambling, encompassing internet gaming, internet sports gaming, and virtual simulated gaming. The company also offers sports betting, online casino game, and peer-to-peer poker services through its Coolbet.com website, as well as a range of professional and managed services designed to deploy and provide ongoing operational support for its software systems. It serves regional operators and individual tribal casino operators. The company was founded in 2002 and is headquartered in Irvine, California.",
+			"cashflowStatements": [
+				{
+					"endDate": "2021-12-31",
+					"netIncome": -24901000,
+					"totalCashFromOperatingActivities": -4395000,
+					"netBorrowings": -83000
+				},
+				{
+					"endDate": "2020-12-31",
+					"netIncome": -20217000,
+					"totalCashFromOperatingActivities": -6348000,
+					"netBorrowings": -154000
+				},
+				{
+					"endDate": "2019-12-31",
+					"netIncome": 2004000,
+					"totalCashFromOperatingActivities": 5588000,
+					"netBorrowings": -86000
+				},
+				{
+					"endDate": "2018-12-31",
+					"netIncome": -7702000,
+					"totalCashFromOperatingActivities": 2244000,
+					"netBorrowings": -3640000
+				}
+			],
+			"profitMargins": -0.19851999,
+			"sharesOutstanding": 42192400,
+			"beta": 0,
+			"bookValue": 5.44,
+			"priceToBook": 0.84191173,
+			"earningsQuarterlyGrowth": 0,
+			"created_at": "2022-04-07T10:48:05.345526Z"
+		},
+		{
+			"id": 25,
+			"title": "GeoPark",
+			"long_title": "GeoPark Limited",
+			"industry": "Oil and gas exploration",
+			"currency": "USD",
+			"symbol": "GPRK",
+			"longBusinessSummary": "GeoPark Limited engages in the exploration, development, and production of oil and gas reserves in Chile, Colombia, Brazil, Argentina, and Ecuador. As of December 31, 2021, the company had working and/or economic interests in 42 hydrocarbons blocks. It had net proved reserves of 87.8 million barrels of oil equivalent. GeoPark Limited has a strategic partnership with ONGC Videsh to jointly acquire, invest in, and create value from upstream oil and gas projects across Latin America. The company was formerly known as GeoPark Holdings Limited and changed its name to GeoPark Limited in July 2013. GeoPark Limited was founded in 2002 and is based in Bogotá, Colombia.",
+			"cashflowStatements": [
+				{
+					"endDate": "2021-12-31",
+					"netIncome": 61127000,
+					"totalCashFromOperatingActivities": 216777000,
+					"netBorrowings": -110278000
+				},
+				{
+					"endDate": "2020-12-31",
+					"netIncome": -232950000,
+					"totalCashFromOperatingActivities": 168699000,
+					"netBorrowings": 337045000
+				},
+				{
+					"endDate": "2019-12-31",
+					"netIncome": 57757000,
+					"totalCashFromOperatingActivities": 235429000,
+					"netBorrowings": -14645000
+				},
+				{
+					"endDate": "2018-12-31",
+					"netIncome": 72415000,
+					"totalCashFromOperatingActivities": 256206000,
+					"netBorrowings": 20944000
+				}
+			],
+			"profitMargins": 0.08878,
+			"sharesOutstanding": 60046200,
+			"beta": 1.733823,
+			"bookValue": -1.028,
+			"priceToBook": 0,
+			"earningsQuarterlyGrowth": 0,
+			"created_at": "2022-04-07T10:48:05.345526Z"
+		},
+		{
+			"id": 27,
+			"title": "GasLog",
+			"long_title": "GasLog Ltd",
+			"industry": "LNG shipping",
+			"currency": "USD",
+			"symbol": "GLOG",
+			"longBusinessSummary": "",
+			"cashflowStatements": null,
+			"profitMargins": 0,
+			"sharesOutstanding": 0,
+			"beta": 0,
+			"bookValue": 0,
+			"priceToBook": 0,
+			"earningsQuarterlyGrowth": 0,
+			"created_at": "2022-04-07T10:48:05.345526Z"
+		},
+		{
+			"id": 45,
+			"title": "GOL",
+			"long_title": "GOL Intelligent Airlines Inc (ADR)",
+			"industry": "Flights",
+			"currency": "USD",
+			"symbol": "GOL",
+			"longBusinessSummary": "GOL Linhas Aéreas Inteligentes S.A. provides scheduled and non-scheduled air transportation services for passengers and cargo; and maintenance services for aircrafts and components in Brazil, rest of South America, the Caribbean, and the United States. The company offers Smiles frequent-flyer programs to approximately 19 million members, allowing clients to accumulate and redeem miles. It operates a fleet of 135 Boeing 737 aircrafts with 492 daily flights. GOL Linhas Aéreas Inteligentes S.A. was founded in 2000 and is headquartered in São Paulo, Brazil.",
+			"cashflowStatements": [
+				{
+					"endDate": "2021-12-31",
+					"netIncome": -7221538000,
+					"totalCashFromOperatingActivities": 705562000,
+					"netBorrowings": -89690000
+				},
+				{
+					"endDate": "2020-12-31",
+					"netIncome": -5988128000,
+					"totalCashFromOperatingActivities": 753936000,
+					"netBorrowings": -1873402000
+				},
+				{
+					"endDate": "2019-12-31",
+					"netIncome": -117273000,
+					"totalCashFromOperatingActivities": 2461076000,
+					"netBorrowings": -216552000
+				},
+				{
+					"endDate": "2018-12-31",
+					"netIncome": -1085393000,
+					"totalCashFromOperatingActivities": 2081869000,
+					"netBorrowings": -496962000
+				}
+			],
+			"profitMargins": -0.97150004,
+			"sharesOutstanding": 197500000,
+			"beta": 1.555259,
+			"bookValue": -106.612,
+			"priceToBook": 0,
+			"earningsQuarterlyGrowth": 0,
+			"created_at": "2022-04-07T10:48:05.345526Z"
+		},
+		{
+			"id": 38,
+			"title": "Golden Ocean Group",
+			"long_title": "Golden Ocean Group Limited",
+			"industry": "Bulk dry shipping",
+			"currency": "USD",
+			"symbol": "GOGL",
+			"longBusinessSummary": "Golden Ocean Group Limited, a shipping company, owns and operates a fleet of dry bulk vessels comprising Newcastlemax, Capesize, Panamax, and Ultramax vessels worldwide. It owns and operates dry bulk vessels in the spot and time charter markets. The company transports bulk commodities, such as ores, coal, grains, and fertilizers. As of March 23, 2022, it owned a fleet of 81 dry bulk vessels. Golden Ocean Group Limited is based in Hamilton, Bermuda.",
+			"cashflowStatements": [
+				{
+					"endDate": "2021-12-31",
+					"netIncome": 527218000,
+					"totalCashFromOperatingActivities": 560398000,
+					"netBorrowings": -163162000
+				},
+				{
+					"endDate": "2020-12-31",
+					"netIncome": -137669000,
+					"totalCashFromOperatingActivities": 140640000,
+					"netBorrowings": -99596000
+				},
+				{
+					"endDate": "2019-12-31",
+					"netIncome": 37189000,
+					"totalCashFromOperatingActivities": 158431000,
+					"netBorrowings": -236991000
+				},
+				{
+					"endDate": "2018-12-31",
+					"netIncome": 84535000,
+					"totalCashFromOperatingActivities": 186546000,
+					"netBorrowings": 22972000
+				}
+			],
+			"profitMargins": 0.43892,
+			"sharesOutstanding": 200436000,
+			"beta": 1.387745,
+			"bookValue": 9.623,
+			"priceToBook": 1.191936,
+			"earningsQuarterlyGrowth": 7.033,
+			"created_at": "2022-04-07T10:48:05.345526Z"
+		},
+		{
+			"id": 52,
+			"title": "Gerdau",
+			"long_title": "Gerdau SA (ADR)",
+			"industry": "Steelmaking",
+			"currency": "USD",
+			"symbol": "GGB",
+			"longBusinessSummary": "Gerdau S.A. provides steel products and services. The company operates through Brazil Business, North America Business, South America Business, and Special Steel Business segments. It offers semi-finished products, including billets, blooms, and slabs; common long rolled products, such as rebars, wire rods, merchant bars, light shapes, and profiles to the construction and manufacturing industries; finished industrial products, including commercial rolled-steel bars, and light profiles and wires; agricultural products that include stakes and smooth wire products; and drawn products comprises barbed and barbless fence wires, galvanized wires, fences, concrete reinforcing wire meshes, nails, and clamps. The company also produces special steel products used in auto parts, light and heavy vehicles, and agricultural machinery, as well as the oil and gas, wind energy, machinery and equipment, mining and rail, and other markets. In addition, it offers flat products, including hot rolled coils and heavy plates; and resells flat steel products, as well as mines and produces iron ore. It sells its products through independent distributors, direct sales from the mills, and through its retail network. The company was founded in 1901 and is based in Sao Paulo, Brazil. Gerdau S.A. is a subsidiary of Metalúrgica Gerdau S.A.",
+			"cashflowStatements": [
+				{
+					"endDate": "2021-12-31",
+					"netIncome": 15494111000,
+					"totalCashFromOperatingActivities": 12516933000,
+					"netBorrowings": -4782772000
+				},
+				{
+					"endDate": "2020-12-31",
+					"netIncome": 2365763000,
+					"totalCashFromOperatingActivities": 6407906000,
+					"netBorrowings": -2211197000
+				},
+				{
+					"endDate": "2019-12-31",
+					"netIncome": 1203736000,
+					"totalCashFromOperatingActivities": 1642792000,
+					"netBorrowings": 538666000
+				},
+				{
+					"endDate": "2018-12-31",
+					"netIncome": 2303868000,
+					"totalCashFromOperatingActivities": 1999683000,
+					"netBorrowings": -3439644000
+				}
+			],
+			"profitMargins": 0.19777,
+			"sharesOutstanding": 1705750016,
+			"beta": 1.222814,
+			"bookValue": 24.977,
+			"priceToBook": 0.25183168,
+			"earningsQuarterlyGrowth": 2.385,
+			"created_at": "2022-04-07T10:48:05.345526Z"
+		},
+		{
+			"id": 64,
+			"title": "Barrick Gold",
+			"long_title": "Barrick Gold Corp",
+			"industry": "Gold miners",
+			"currency": "USD",
+			"symbol": "GOLD",
+			"longBusinessSummary": "Barrick Gold Corporation engages in the exploration, mine development, production, and sale of gold and copper properties. It has ownership interests in producing gold mines that are located in Argentina, Canada, Côte d'Ivoire, the Democratic Republic of Congo, Dominican Republic, Mali, Tanzania, and the United States. The company also has ownership interests in producing copper mines located in Chile, Saudi Arabia, and Zambia; and various other projects located throughout the Americas and Africa. Barrick Gold Corporation was founded in 1983 and is headquartered in Toronto, Canada.",
+			"cashflowStatements": [
+				{
+					"endDate": "2021-12-31",
+					"netIncome": 2022000000,
+					"totalCashFromOperatingActivities": 4378000000,
+					"netBorrowings": 104000000
+				},
+				{
+					"endDate": "2020-12-31",
+					"netIncome": 2324000000,
+					"totalCashFromOperatingActivities": 5417000000,
+					"netBorrowings": -337000000
+				},
+				{
+					"endDate": "2019-12-31",
+					"netIncome": 3969000000,
+					"totalCashFromOperatingActivities": 2833000000,
+					"netBorrowings": -309000000
+				},
+				{
+					"endDate": "2018-12-31",
+					"netIncome": -1545000000,
+					"totalCashFromOperatingActivities": 1765000000,
+					"netBorrowings": -687000000
+				}
+			],
+			"profitMargins": 0.16871001,
+			"sharesOutstanding": 1779360000,
+			"beta": 0.031625,
+			"bookValue": 13.408,
+			"priceToBook": 1.8354714,
+			"earningsQuarterlyGrowth": 0.06,
+			"created_at": "2022-04-07T10:48:05.345526Z"
+		},
+		{
+			"id": 71,
+			"title": "Canada Goose",
+			"long_title": "Canada Goose Holdings Inc",
+			"industry": "Parkas",
+			"currency": "USD",
+			"symbol": "GOOS",
+			"longBusinessSummary": "Canada Goose Holdings Inc. designs, manufactures, and sells performance luxury apparel for men, women, youth, children, and babies in Canada, the United States, Asia, Europe, and internationally. It operates through three segments: Direct-to-Consumer, Wholesale, and Other. The company offers parkas, lightweight down jackets, rainwear, windwear, knitwear, footwear, and accessories for fall, winter, and spring seasons. As of March 28, 2021, it operated through its 51 national e-commerce markets and 28 directly operated retail stores in North America, Europe, and Asia. The company also sells its products through wholesale partners and distributors. Canada Goose Holdings Inc. was founded in 1957 and is headquartered in Toronto, Canada.",
+			"cashflowStatements": [
+				{
+					"endDate": "2021-03-28",
+					"netIncome": 70200000,
+					"totalCashFromOperatingActivities": 293700000,
+					"netBorrowings": 208700000
+				},
+				{
+					"endDate": "2020-03-29",
+					"netIncome": 151700000,
+					"totalCashFromOperatingActivities": 62500000,
+					"netBorrowings": -24700000
+				},
+				{
+					"endDate": "2019-03-31",
+					"netIncome": 143600000,
+					"totalCashFromOperatingActivities": 73400000,
+					"netBorrowings": -24700000
+				},
+				{
+					"endDate": "2018-03-31",
+					"netIncome": 96100000,
+					"totalCashFromOperatingActivities": 126200000,
+					"netBorrowings": -8800000
+				}
+			],
+			"profitMargins": 0.09879,
+			"sharesOutstanding": 55961700,
+			"beta": 1.372549,
+			"bookValue": 4.907,
+			"priceToBook": 5.127369,
+			"earningsQuarterlyGrowth": 0.42,
+			"created_at": "2022-04-07T10:48:05.345526Z"
+		}
+	]
+}

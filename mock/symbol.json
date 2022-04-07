@@ -1,0 +1,45 @@
+{
+	"success": true,
+	"symbol": {
+		"id": 14,
+		"title": "Golar LNG",
+		"long_title": "Golar LNG Ltd.",
+		"industry": "LNG infrastructure",
+		"currency": "USD",
+		"symbol": "GLNG",
+		"longBusinessSummary": "Golar LNG Limited provides infrastructure for the liquefaction, transportation, and regasification of LNG. It operates through Shipping, FLNG, and Power segments. The company engages in the acquisition, ownership, operation, and chartering of LNG carriers, Floating Liquefaction Natural Gas Vessel (FLNG), and floating storage regasification units (FSRUs), as well as operates external vessels. As of April 16, 2021, it operated ten LNG carriers, one FSRU, and two FLNGs. The company was founded in 1946 and is headquartered in Hamilton, Bermuda.",
+		"cashflowStatements": [
+			{
+				"endDate": "2021-12-31",
+				"netIncome": 412685000,
+				"totalCashFromOperatingActivities": 230005000,
+				"netBorrowings": 46889000
+			},
+			{
+				"endDate": "2020-12-31",
+				"netIncome": -273557000,
+				"totalCashFromOperatingActivities": 145783000,
+				"netBorrowings": -204827000
+			},
+			{
+				"endDate": "2019-12-31",
+				"netIncome": -211956000,
+				"totalCashFromOperatingActivities": 106545000,
+				"netBorrowings": -27917000
+			},
+			{
+				"endDate": "2018-12-31",
+				"netIncome": -231428000,
+				"totalCashFromOperatingActivities": 116674000,
+				"netBorrowings": 182874000
+			}
+		],
+		"profitMargins": 0.91349,
+		"sharesOutstanding": 108200000,
+		"beta": 0.702941,
+		"bookValue": 15.981,
+		"priceToBook": 1.5055377,
+		"earningsQuarterlyGrowth": -0.158,
+		"created_at": "2022-04-07T10:48:05.345526Z"
+	}
+}
