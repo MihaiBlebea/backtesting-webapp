@@ -11,7 +11,14 @@ createApp({
 				<div class="text-muted">{{ symbol.title }}</div>
 			</h4>
 			<hr/>
-			<p v-for="d in descriptions">{{ d }}</p>
+			<div class="mb-3">
+				<p v-for="d in descriptions">{{ d }}</p>
+			</div>
+
+			<div class="mb-4 d-flex justify-content-center">
+				<a :href="'/order_form.html?direction=buy&symbol=' + symbol.symbol" type="button" class="btn btn-primary">Buy order</a>
+			</div>
+
 			<div class="d-flex justify-content-between">
 				<p>Beta:</p>
 				<p>{{ symbol.beta }}</p>
