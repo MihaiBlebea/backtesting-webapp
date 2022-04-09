@@ -1,6 +1,9 @@
 {
-	"success": true,
-	"account": {
-		"api_token": "abcd1234"
-	}
+    "success": true,
+    "account": {
+        "api_token": "jrA9CidwgR",
+        "balance": 8000,
+        "pending_balance": 2000,
+        "created_at": "2022-04-09T16:48:33.606132Z"
+    }
 }

@@ -6,7 +6,7 @@ const routes = {
 	account: loadData("./mock/account.json"),
 	order: loadData("./mock/order.json"),
 	orders: loadData("./mock/orders.json"),
-	portfolio: loadData("./mock/portfolio.json"),
+	positions: loadData("./mock/positions.json"),
 	symbol: loadData("./mock/symbol.json"),
 	symbols: loadData("./mock/symbols.json")
 }
