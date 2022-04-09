@@ -57,7 +57,7 @@ createApp({
 				}
 			}
 
-			axios.get(BASE_URL + "/orders.json", options).then((result)=> {
+			axios.get(BASE_URL + "/orders", options).then((result)=> {
 				if (result.status !== 200) {
 					throw Error("status code is not 200")
 				}

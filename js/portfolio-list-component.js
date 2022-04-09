@@ -32,7 +32,7 @@ createApp({
 				}
 			}
 
-			axios.get(BASE_URL + "/portfolio.json", options).then((result)=> {
+			axios.get(BASE_URL + "/portfolio", options).then((result)=> {
 				console.log(result.data)
 				if (result.status !== 200) {
 					throw Error("status code is not 200")

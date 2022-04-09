@@ -63,7 +63,7 @@ createApp({
 				}
 			}
 
-			axios.get(BASE_URL + "/symbol.json?symbol=" + symbol, options).then((result)=> {
+			axios.get(BASE_URL + "/symbol?symbol=" + symbol, options).then((result)=> {
 				console.log(result.data)
 				if (result.status !== 200) {
 					throw Error("status code is not 200")
