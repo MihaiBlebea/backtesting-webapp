@@ -1,7 +1,6 @@
 import { createApp } from "vue"
 import axios from "axios"
-
-const BASE_URL = "http://127.0.0.1:8080/mock"
+import { BASE_URL } from "utils"
 
 createApp({
 	template: `

@@ -1,7 +1,7 @@
 import { createApp } from "vue"
 import axios from "axios"
+import { BASE_URL, getQueryParams } from "utils"
 
-const BASE_URL = "http://192.168.1.17:8080/api/v1"
 
 createApp({
 	template: `
@@ -135,4 +135,18 @@ createApp({
 		},
 		getToken: ()=> localStorage.getItem("apiToken")
 	},
+	mounted() {
+		let params = getQueryParams()
+		if (params.length > 0) {
+			params.forEach((param)=> {
+				if (param["key"] === "symbol") {
+					this.symbol = param["val"]
+				}
+
+				if (param["key"] === "direction") {
+					this.direction = param["val"] === "buy" ? "buy" : "sell"
+				}
+			})
+		}
+	}
 }).mount("#place-order-form")

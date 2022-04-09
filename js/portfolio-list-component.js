@@ -1,17 +1,16 @@
 import { createApp } from "vue"
 import axios from "axios"
-
-const BASE_URL = "http://127.0.0.1:8080/mock"
+import { BASE_URL } from "utils"
 
 createApp({
 	template: `
-	<div v-for="pos in positions">
-		<div class="card mb-2">
-			<div class="card-body">
-				<h5 class="card-title">{{ pos.symbol }}</h5>
-				<p class="card-text">{{ pos.quantity }} shares</p>
-			</div>
-		</div>
+	<div v-for="(pos, index) in positions">
+		<h5 class="card-title">{{ pos.symbol }}</h5>
+		<p class="d-flex justify-content-between">
+			<span>{{ pos.quantity }} shares</span>
+			<div class="pointer text-success" v-on:click="sellOrder(pos)">Sell</div>
+		</p>
+		<hr v-if="index < positions.length - 1"/>
 	</div>
 	`,
 	data() {
@@ -47,6 +46,9 @@ createApp({
 			}).catch((e)=> {
 				console.error(e)
 			})
+		},
+		sellOrder(pos) {
+			window.location.href = "/order_form.html?symbol=" + pos.symbol + "&direction=sell"
 		},
 		getToken: ()=> localStorage.getItem("apiToken")
 	},

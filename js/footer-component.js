@@ -2,7 +2,7 @@ import { createApp } from "vue"
 
 createApp({
 	template: `
-	<footer class="footer bg-primary" v-bind:style="styles">
+	<footer class="footer bg-primary footer-fixed">
 		<div class="container">
 			<div class="row justify-content-center mb-2">
 				<div class="col-12 col-md-6 row">
@@ -18,13 +18,7 @@ createApp({
 	`,
 	data() {
 		return {
-			styles: {
-				position: "fixed",
-				bottom: 0,
-				width: "100%",
-				height: "60px",
-				lineHeight: "60px"
-			}
+			
 		}
 	},
 	methods: {

@@ -1,0 +1,21 @@
+.scrollable {
+	height: -moz-calc(100% - 60px);
+	height: -webkit-calc(100% - 60px);
+	height: -o-calc(100% - 60px);
+	height: calc(100% - 60px);
+	overflow-y: scroll;
+}
+
+.footer-fixed {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	line-height: 60px;
+}
+
+html, body {
+	margin: 0; 
+	height: 100%; 
+	overflow: hidden
+}

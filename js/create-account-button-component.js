@@ -1,7 +1,7 @@
 import { createApp } from "vue"
 import axios from "axios"
+import { BASE_URL } from "utils"
 
-const BASE_URL = "http://192.168.1.17:8080/api/v1"
 
 createApp({
 	template: `<button type="button" v-on:click="createAccount" class="btn btn-primary">Create Account</button>`,

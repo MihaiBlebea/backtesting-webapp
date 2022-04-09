@@ -1,24 +1,25 @@
 {
-  "name": "backtesting-webapp",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MihaiBlebea/backtesting-webapp.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MihaiBlebea/backtesting-webapp/issues"
-  },
-  "homepage": "https://github.com/MihaiBlebea/backtesting-webapp#readme",
-  "dependencies": {
-    "axios": "^0.26.1",
-    "http-server": "^14.1.0",
-    "live-server": "^1.2.1"
-  }
+	"name": "backtesting-webapp",
+	"version": "1.0.0",
+	"description": "",
+	"type": "module",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MihaiBlebea/backtesting-webapp.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/MihaiBlebea/backtesting-webapp/issues"
+	},
+	"homepage": "https://github.com/MihaiBlebea/backtesting-webapp#readme",
+	"dependencies": {
+		"axios": "^0.26.1",
+		"http-server": "^14.1.0",
+		"live-server": "^1.2.1"
+	}
 }
